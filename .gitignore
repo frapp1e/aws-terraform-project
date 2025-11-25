@@ -1,0 +1,14 @@
+# Claves privadas
+terraform-key
+*.pem
+*.key
+
+# Archivos de Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Archivos temporales del sistema
+*.log
+*.swp
+
